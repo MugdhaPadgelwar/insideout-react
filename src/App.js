@@ -8,7 +8,12 @@ const emojiDictionary = {
   "😂": "Joy",
   "🔥": "Fire",
   "🎉": "Party popper",
-  "❤": "Love"
+  "🤓": "Nerdy face",
+  "🥳": "Partying face",
+  "🤗": "	Hugs",
+  "👽": "Alien",
+   "🤙": "Call me hand"
+  
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
